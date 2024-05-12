@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\TankTank-master\TankTank\bin\Debug\TankTank.exe.config
+C:\Users\DELL\Downloads\TankTank-master\TankTank\bin\Debug\TankTank.exe
+C:\Users\DELL\Downloads\TankTank-master\TankTank\bin\Debug\TankTank.pdb
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\Tankrona.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\Tankrona.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\TankTank.FormMain.resources
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\TankTank.Properties.Resources.resources
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\Tankrona.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\Tankrona.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\TankTank.exe
+C:\Users\DELL\Downloads\TankTank-master\TankTank\obj\Debug\TankTank.pdb

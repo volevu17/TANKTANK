@@ -1,0 +1,10 @@
+F:\C#\TankTank\TankTank\obj\Debug\TankTank.exe
+F:\C#\TankTank\TankTank\obj\Debug\TankTank.pdb
+F:\C#\TankTank\TankTank\bin\Debug\TankTank.exe
+F:\C#\TankTank\TankTank\bin\Debug\TankTank.pdb
+F:\C#\TankTank\TankTank\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\TankTank\TankTank\obj\Debug\TankTank.FormMain.resources
+F:\C#\TankTank\TankTank\obj\Debug\TankTank.Properties.Resources.resources
+F:\C#\TankTank\TankTank\obj\Debug\TankTank.csproj.GenerateResource.Cache
+D:\编程\Projects\CSharp3\TankWar\CrazyTank_2\TankTank\obj\Debug\TankTank.exe
+D:\编程\Projects\CSharp3\TankWar\CrazyTank_2\TankTank\obj\Debug\TankTank.pdb
